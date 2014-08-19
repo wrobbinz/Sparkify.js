@@ -51,4 +51,6 @@ Current options are listed below:
 
 -   Complete(function): Callback function to execute
 
+## Support
 
+Currently reliant on SVG.js and latest jQuery library. Planning to remove SVG.js reliance
