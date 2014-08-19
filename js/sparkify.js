@@ -14,8 +14,8 @@
             complete     : null
         }, options);
         
-        var deviceID    = "55ff6a065075555345371487";
-        var accessToken = "c6bffccc5b25d58d20cf3fda7c9120ad1a3f4cfe";
+        var deviceID    = "DeviceId";
+        var accessToken = "AccessToken";
         var func = settings.func;
         var value = 0;
         if ( settings.widget == 'fader'){
@@ -117,7 +117,7 @@
         };
 
         return this.each( function() {
-            // We'll get back to this in a moment
+            
         });
 
     }
