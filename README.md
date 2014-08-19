@@ -3,7 +3,7 @@
 -   jQuery plugin to easily implement web widgets that connect and
     control your spark core
 
--   SVG based
+-   Baed off the SVG.js library by Wout (https://github.com/wout)
 
 -   downward compatible ; overloads an input element.
 
@@ -53,4 +53,4 @@ Current options are listed below:
 
 ## Support
 
-Currently reliant on SVG.js and latest jQuery library. Planning to remove SVG.js reliance
+IE 8 and Android 2.3 (and below) do not have SVG support.
